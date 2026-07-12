@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software engineer who loves clean APIs, fast feedback loops, and good coffee. I build things for the web and write about what I learn.
+Software engineer who loves clean APIs, fast feedback loops and good coffee. I build things for the web and write about what I learn.
 
 🔭 &nbsp;I'm currently working on **A MongoDB Based Project**  
 💬 &nbsp;Ask me about **API Design, JavaScript, MongoDB, DSA, web dev**  
